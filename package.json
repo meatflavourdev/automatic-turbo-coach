@@ -62,7 +62,7 @@
   "dependencies": {
     "electron-log": "^4.3.1",
     "electron-store": "^7.0.2",
-    "electron-updater": "^4.3.5"
+    "electron-updater": "^4.6.5"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.1.0",
